@@ -1,4 +1,6 @@
 ### Hi there 👋
+I'm Grzegorz Sajko, and I'm data practitioner.
+- 🔭 I’m currently working on [tweetfeed](https://github.com/gsajko/tweetfeed), 🌱learning coding best practices. 
 
 <!--
 **gsajko/gsajko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
