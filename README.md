@@ -1,7 +1,7 @@
 ### Hi there 👋
 I'm Grzegorz Sajko, and I'm data practitioner.
-- 🔭~~I’m currently working on [tweetfeed](https://github.com/gsajko/tweetfeed), 🌱learning coding best practices.~~
-  - Elon Musk shut down the free Twitter API, making the project useless.
+- 🔭I’m currently working on [tweetfeed](https://github.com/gsajko/tweetfeed), 🌱learning coding best practices.
+<!--   - Elon Musk shut down the free Twitter API, making the project useless. -->
 
 <!--
 **gsajko/gsajko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
