@@ -1,6 +1,8 @@
 ### Hi there 👋
-I'm Grzegorz Sajko, and I'm data practitioner.
-- 🔭I’m currently working on [tweetfeed](https://github.com/gsajko/tweetfeed), 🌱learning coding best practices.
+
+I'm Grzegorz Sajko, a data practitioner with a fascination for large language models (LLMs).
+
+- 🌱 currently, I'm delving into the world of RAGs.
 <!--   - Elon Musk shut down the free Twitter API, making the project useless. -->
 
 <!--
