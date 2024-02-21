@@ -2,7 +2,9 @@
 
 I'm Grzegorz Sajko, a data practitioner with a fascination for large language models (LLMs).
 
-- 🌱 currently, I'm exploring MLOps / DE for AI space.
+currently, I'm exploring / learning about:
+- MLOps
+- DE for AI
 <!--   - Elon Musk shut down the free Twitter API, making the project useless. -->
 
 <!--
